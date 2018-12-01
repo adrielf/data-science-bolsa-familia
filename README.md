@@ -5,7 +5,7 @@ O objetivo é analisar os dados de pagamento do programa Bolsa Família do Gover
 
 ## Visualizar projeto
 Para realização e visualização, foi utilizado o Jupyter Notebook:
-* [pagamentos bolsa familia](bolsafamilia.ipynb)
+* [Análise dos pagamentos do Bolsa Familia](bolsafamilia.ipynb)
 
 ## Fontes:
 Não foi possível anexar a base de dados no github devido a limitação de tamanho (~180MB).  
